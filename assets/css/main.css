@@ -65,13 +65,18 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-.fa-palette{
-	font-size: 3rem;
-}
+
 .content p {
 	text-align: left;
 	margin-bottom: 1rem;
 }
+#one {
+	padding: 10vh 0;
+}
+.wrapper.spotlight:before, .wrapper.spotlight:after {
+	
+}
+
 
 /* Basic */
 
