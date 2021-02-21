@@ -70,6 +70,9 @@ input, select, textarea {
 	text-align: left;
 	margin-bottom: 1rem;
 }
+.banner{
+	height: 60vh;
+}
 #one {
 	padding: 10vh 0;
 }
