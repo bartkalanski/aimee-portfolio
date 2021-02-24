@@ -65,7 +65,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-
+.image{
+}
+.contact{
+	margin-top: 2rem;
+}
 .content p {
 	text-align: left;
 	margin-bottom: 1rem;
