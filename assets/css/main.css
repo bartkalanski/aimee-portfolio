@@ -65,7 +65,11 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
-.image{
+
+.projects{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 }
 .contact{
 	margin-top: 2rem;
@@ -77,6 +81,11 @@ input, select, textarea {
 .banner{
 	height: 60vh;
 }
+@media screen and (max-width: 500px) {
+	.banner {
+	  height: 40vh;
+	}
+  }
 #one {
 	padding: 10vh 0;
 }
